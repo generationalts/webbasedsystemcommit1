@@ -1,0 +1,184 @@
+
+#footer{
+    background-color: rgba(124,7,16,0.8939950980392157);
+}
+
+.container{
+    font-size: small;
+}
+footer{
+
+    background-color: rgba(124,7,16,0.8939950980392157)!important
+}
+.fab:hover{
+    color: white;
+}
+
+.fab{
+    font-size: 0.8em;
+}
+.card-footer{
+    font-size: 0.8em;
+
+}
+.card-footer{
+    font-size: 0.8em;
+
+}
+.card-foote:hover{
+    color: white;
+}
+
+
+
+
+
+    .btn-success{
+        background-color: #0096D5;
+        border-color: #0096D5!important;
+        border-radius: 10px;
+    }
+    .btn-success:hover{
+        background-color: white;
+        color: #0096D5;
+
+    }
+    .navbar-nav li a {
+        color: #fff; /* sets the text color to white */
+      }
+
+    .main-footer {
+
+        color: #fff; /* set text color to white */
+        padding: 1rem; /* add some padding to the footer */
+      }
+
+    #Services{
+        background-color: #f8f8f8;
+    }
+.navbar{
+    background-color: rgba(124,7,16,0.8939950980392157)!important;
+    align-items: center;
+    color: #f8f8f8!important;
+    align-content: center;
+}
+.navbar-brand{
+color: #f8f8f8!important;
+}
+
+.nav-link{
+    color: #f8f8f8!important;
+    display: flex!important;
+    align-items: center!important;
+}
+.nav-link i {
+    margin-right: 0.5rem!important;
+  }
+  @media (max-width: 600px) {
+    .navbar-nav {
+      flex-direction: column!important;
+    }
+    .nav-item {
+      margin-bottom: 0.5rem!important;
+    }
+  }
+
+.modal.hover{
+    animation:none;
+    transform: none;
+
+
+}
+.nav-link {
+    display: flex!important;
+    align-items: center!important;
+  }
+
+  .nav-link i {
+    margin-right: 0.5rem!important;
+  }
+
+  /* Make the navigation bar responsive */
+  @media (max-width: 600px) {
+    .navbar-nav {
+      flex-direction: column;
+    }
+    .nav-item {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+
+
+
+
+.message{
+    background-color: white;
+    color: #0096D5;
+}
+
+
+
+.card-info {
+    display: none;
+    position: absolute;
+    top: -50px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
+.card:hover .card-info {
+    display: block;
+}
+.price-popup {
+    background-color: white;
+    border: 1px solid grey;
+    padding: 10px;
+    position: absolute;
+    color: #0096D5;
+    top: 0;
+    right: 0;
+    z-index: 1;
+  }
+
+
+
+  *{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0096D5;
+    color: white;
+}
+.brand-title{
+    font-size: 1.5rem;
+    margin: .5rem;
+}
+.navbar-links ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+.navbar-links li {
+    list-style: none;
+}
+.navbar-links li a {
+    text-decoration: none;
+    color: white;
+    padding: 1rem;
+    display: block;
+}
+
+
+
+

@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+    background-color: #F9A51A; /* This will set the background color to a blend of yellow and orange */
+    color: #333; /* This will set the text color to a dark gray */
+    font-family: 'Montserrat', sans-serif; /* This will set the font-family to Montserrat */
+    font-size: 1.2rem; /* This will set the font-size to 1.2rem */
+    text-align: center;
+    transition: all 0.5s ease; /* This will add a 0.5s ease transition to all properties */
+}
+.card:hover {
+    background-color: #F9A51A; /* This will change the background color to a blend of yellow and orange */
+    color: #333; /* This will set the text color to a dark gray */
+    transform: scale(1.1); /* This will add a 10% scale to the card on hover */
+}
+
+
